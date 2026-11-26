@@ -41,6 +41,8 @@ own repos. The map links; it does not absorb.
 
 ## // POSTS
 
+Full texts in the [Posts index](posts/README.md).
+
 - [Launch entry, 2026-11-26](posts/2026-11-26-centaur-production-launch.md)
   — the introductory post filed with this repo.
 - [Launch post, as posted on X, 2026-11-26](posts/2026-11-26-launch-post-x.md)
@@ -111,6 +113,24 @@ and the hybrid Claude Code design documented and
 costed against it (design only, not adopted):
 The full method note (PN-001) publishes separately,
 after this launch.
+
+## // PAPER TRAIL
+
+- [CENTAUR.md](CENTAUR.md) — the unit, defined
+- [CHARTER.md](CHARTER.md) — the charter
+- [STRUCTURE.md](STRUCTURE.md) — how this repo is run
+- Director's Notes: [DN-001 — NOT A POWER USER. AN
+  UBER-POWER-USER.](posts/2026-11-26-not-a-power-user-uber-power-user.md)
+  · [DN-002 — The Front Door, and the Post That
+  Counted the Ways](directors-notes/DN-002-THE-FRONT-DOOR.md)
+  · [index](directors-notes/README.md)
+- Production Notes: PN-001 — The Shoestring, and the
+  Hybrid We Are Not (Yet) Running (publishes Sunday
+  2026-11-29, posted on X first, then logged here)
+  · [The Shoestring History](posts/2026-11-26-the-shoestring-history.md)
+- Posts: [index](posts/README.md)
+- Licenses: [LICENSE.md](LICENSE.md) ·
+  [IP-AND-TRAINING-NOTICE.md](IP-AND-TRAINING-NOTICE.md)
 
 ## // THE PHILOSOPHY
 

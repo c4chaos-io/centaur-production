@@ -68,5 +68,16 @@ Adopted 2026-11-26, at the creation of this repo.
    here. One family, both directions: a visitor who
    lands anywhere can reach the unit, and from the
    unit can reach everything.
+7. **The shoestring record lives here.** This repo
+   is the historical record of the shoestring
+   budget's development and its future evolution
+   (Director's ruling, 2026-11-26). Every shoestring
+   budget post is logged in posts/ as prior art, in
+   order, with its numbers as posted on its date;
+   future corrections and costings publish through
+   this repo. The record of record:
+   posts/2026-11-26-the-shoestring-history.md.
+   (Rule 5 exception: budget posts are production
+   history, not project news.)
 
 *Maintained by ~C4Chaos / Fluffy (A Centaur Production).*

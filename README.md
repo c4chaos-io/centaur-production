@@ -27,6 +27,11 @@ own repos. The map links; it does not absorb.
 
 ## // LATEST
 
+- **2026-11-26 — the Director's Notes opened.**
+  [directors-notes/](directors-notes/) — DN-001 is
+  the UBER-POWER-USER post itself;
+  [DN-002, The Front Door](directors-notes/DN-002-THE-FRONT-DOOR.md),
+  is the note around it.
 - **2026-11-26 (Thanksgiving Day) — this repo launched.**
   Announced on X by ~C4Chaos:
   https://x.com/c4chaos/status/2125990818565767347

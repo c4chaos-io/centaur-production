@@ -112,7 +112,7 @@ parody post quote-carded as the receipts. The phone
 is not the handicap. That is the shoestring as
 permission, not just pricing.
 
-## 10. 2026-11-26 — This repo, and the merged post
+## 10. 2026-11-26 — This repo
 
 The Centaur Production repo launched on
 Thanksgiving Day, and the budget became its
@@ -121,11 +121,11 @@ the cutting room, it generates nothing; the AI
 generation stack is **$52.92 a month**, the slate
 at about **$11.18 per finished minute**, two
 complete video projects finished for $0 additional
-on leftover weekly usage) was folded, with the
-delayed UBER-POWER-USER post, into one Centaur
-Production post: "NOT A POWER USER. AN
-UBER-POWER-USER." (posts/2026-11-26-uber-power-user-uber-shoestring.md).
-The three ledgers stand: $102.92 gross, $72.92
+on leftover weekly usage) is folded into the
+merged UBER-POWER-USER post now in preparation;
+it enters this history when it is posted on X,
+because this repo logs only what shipped. The
+three ledgers stand: $102.92 gross, $72.92
 production, $52.92 generation only.
 
 ---

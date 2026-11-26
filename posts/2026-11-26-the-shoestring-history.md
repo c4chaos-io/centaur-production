@@ -132,11 +132,24 @@ generation stack is **$52.92 a month**, the slate
 at about **$11.18 per finished minute**, two
 complete video projects finished for $0 additional
 on leftover weekly usage) is folded into the
-merged UBER-POWER-USER post now in preparation;
-it enters this history when it is posted on X,
-because this repo logs only what shipped. The
-three ledgers stand: $102.92 gross, $72.92
+merged UBER-POWER-USER post, entry 11 below.
+The three ledgers stand: $102.92 gross, $72.92
 production, $52.92 generation only.
+
+## 11. 2026-11-26 — NOT A POWER USER. AN UBER-POWER-USER.
+
+The merged post shipped the same day, ahead of
+its Saturday slot: the ten-ways inventory of how
+the unit uses Muse, with correction two carried
+in item 5 (gross $102.92, production $72.92,
+generation $52.92, $11.18 per finished minute,
+162 years). Quote-post of Full Value Dan's Muse
+tips post; one cover image; the Centaur
+Production repo linked in the first self-reply.
+Full text:
+[NOT A POWER USER. AN UBER-POWER-USER.](2026-11-26-not-a-power-user-uber-power-user.md)
+
+https://x.com/c4chaos/status/2126061001477136848
 
 ---
 

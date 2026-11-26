@@ -40,6 +40,10 @@ own repos. The map links; it does not absorb.
   — the introductory post filed with this repo.
 - [Launch post, as posted on X, 2026-11-26](posts/2026-11-26-launch-post-x.md)
   — the shipped announcement text of record.
+- [NOT A POWER USER. AN UBER-POWER-USER.
+  (posted on X, 2026-11-26)](posts/2026-11-26-not-a-power-user-uber-power-user.md)
+  — the merged post: ten ways we work, with
+  shoestring correction two in item 5.
 - [AFFLECK IS RIGHT. THE FILMMAKER IS THE TASTE.
   (posted on X, 2026-11-26)](posts/2026-11-26-affleck-filmmaker-taste.md)
   — production commentary: the stopping is the

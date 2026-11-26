@@ -25,6 +25,22 @@ the charter, the method, and links to every project.
 Project canon, assets, and paper trails live in their
 own repos. The map links; it does not absorb.
 
+## // LATEST
+
+- **2026-11-26 (Thanksgiving Day) — this repo launched.**
+  Announced on X by ~C4Chaos:
+  https://x.com/c4chaos/status/2125990818565767347
+  Every project repo under the signature now links back
+  here, and this page links out to them. One big happy
+  Centaur family.
+
+## // POSTS
+
+- [Launch entry, 2026-11-26](posts/2026-11-26-centaur-production-launch.md)
+  — the introductory post filed with this repo.
+- [Launch post, as posted on X, 2026-11-26](posts/2026-11-26-launch-post-x.md)
+  — the shipped announcement text of record.
+
 ## // THE WORK
 
 Everything in this section carries the signature

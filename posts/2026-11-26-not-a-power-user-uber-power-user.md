@@ -8,6 +8,10 @@ shipped a day ahead of its Saturday slot.*
 - **The post:** https://x.com/c4chaos/status/2126061001477136848
 - **Form:** quote-post of @fullvaluedan
   (https://x.com/fullvaluedan/status/2122667684500304373).
+- **Self-reply:** https://x.com/c4chaos/status/2126062608491090395
+  ("see Centaur Production launch here 👇",
+  quote-posting the launch post, which carries
+  the repo link).
 - **Art:** one image, the mission-control booth
   cover built on Fluffy's reference portrait
   (cover v3; v1 and v2 rejected by the Director).

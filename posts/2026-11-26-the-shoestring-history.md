@@ -35,11 +35,19 @@ Full record also lives in the Yellow Rav3n repo
 ## 2. 2026-11-04 — The tally goes out as a reply
 
 Twice in one day, the Nov 3 post rode as the quote
-card under replies to much larger accounts: under
-Mark Gurman's Apple AI budget post, and under
-Aakash Gupta's Voyager post. The pattern set here
-(one calm line, the receipts attached) became the
-house deployment pattern for the shoestring.
+card under replies to much larger accounts. Under
+Mark Gurman's Apple AI budget post ("ONE CAPPED
+DAY BUYS US TWO MONTHS": one Apple engineer's
+capped day buys about two months of our whole
+operation):
+https://x.com/c4chaos/status/2118105780436218075
+And under Aakash Gupta's Voyager post ("THE EDGE
+WAS NEVER A CHEAPER MODEL": the edge is a
+methodology that refuses to waste generations):
+https://x.com/c4chaos/status/2118151647356747834
+The pattern set here (one calm line, the receipts
+attached) became the house deployment pattern for
+the shoestring.
 
 ## 3. 2026-11-11 — The Auggie reply
 
@@ -47,6 +55,7 @@ Under @aug5thmusic ("AI filmmaking is a rich man's
 hobby"): the shoestring answer, 692 chars, with the
 Nov 3 tally as the quote card. Same pattern, bigger
 room.
+https://x.com/c4chaos/status/2120629422453858533
 
 ## 4. 2026-11-13 — SAME AMBITION. DIFFERENT COST MODEL.
 
@@ -111,6 +120,7 @@ making her first attempt on a phone): the Nov 13
 parody post quote-carded as the receipts. The phone
 is not the handicap. That is the shoestring as
 permission, not just pricing.
+https://x.com/c4chaos/status/2122872766475231236
 
 ## 10. 2026-11-26 — This repo
 

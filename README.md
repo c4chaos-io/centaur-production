@@ -109,7 +109,8 @@ after this launch.
 - We won't toil for influence and money. We toil for
   authentic expression.
 
-What a Centaur is: see CENTAUR.md. Charter: see CHARTER.md.
+What a Centaur is: see [CENTAUR.md](CENTAUR.md).
+Charter: see [CHARTER.md](CHARTER.md).
 
 **No Stakes, No Art.**
 

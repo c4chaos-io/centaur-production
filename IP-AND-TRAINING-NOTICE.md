@@ -11,7 +11,7 @@ Audiocast repos.
   identifying marks, held for the unit and its future
   as a business entity. All rights reserved in the
   marks themselves; the repo's text is licensed
-  separately (see LICENSE.md).
+  separately (see [LICENSE.md](LICENSE.md)).
 - Project IP — characters, canon, artwork, music,
   papers, and episodes — lives in the project repos and
   is governed by each project's own license files.

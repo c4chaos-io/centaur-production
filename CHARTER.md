@@ -77,7 +77,8 @@ gate: canon, taste, licensing, and shipping. This
 charter changes only by the Director's decision, and
 changes are recorded here, dated.
 
-Licensing for this repo: see LICENSE.md. Marks and
-training notice: see IP-AND-TRAINING-NOTICE.md.
+Licensing for this repo: see [LICENSE.md](LICENSE.md).
+Marks and training notice: see
+[IP-AND-TRAINING-NOTICE.md](IP-AND-TRAINING-NOTICE.md).
 
 *~C4Chaos / Fluffy (A Centaur Production)*

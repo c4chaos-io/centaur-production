@@ -1,5 +1,9 @@
 # NOT A POWER USER. AN UBER-POWER-USER.
 
+**DN-001, Centaur Production repo.** The Director
+designates this post as the repo's first
+Director's Note (2026-11-26).
+
 *Posted on X, 2026-11-26, 1:10 PM PT. The merged
 post: the UBER-POWER-USER inventory (2026-11-17)
 and shoestring correction two (2026-11-23) in one,

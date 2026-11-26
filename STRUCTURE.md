@@ -72,8 +72,10 @@ Adopted 2026-11-26, at the creation of this repo.
    is the historical record of the shoestring
    budget's development and its future evolution
    (Director's ruling, 2026-11-26). Every shoestring
-   budget post is logged in posts/ as prior art, in
-   order, with its numbers as posted on its date;
+   budget post actually posted on X is logged in
+   posts/ as prior art, in order, with its numbers
+   as posted on its date — drafts are never filed
+   here; a post enters the record when it ships;
    future corrections and costings publish through
    this repo. The record of record:
    posts/2026-11-26-the-shoestring-history.md.

@@ -40,6 +40,12 @@ own repos. The map links; it does not absorb.
   — the introductory post filed with this repo.
 - [Launch post, as posted on X, 2026-11-26](posts/2026-11-26-launch-post-x.md)
   — the shipped announcement text of record.
+- [The Shoestring History, filed 2026-11-26](posts/2026-11-26-the-shoestring-history.md)
+  — every shoestring budget post, Nov 3 to Nov 26:
+  prior art and historical record of the cost model.
+- [NOT A POWER USER. AN UBER-POWER-USER. (draft)](posts/2026-11-26-uber-power-user-uber-shoestring.md)
+  — the merged uber-power-user + correction two post,
+  prepared 2026-11-26, awaiting posting.
 
 ## // THE WORK
 

@@ -81,5 +81,12 @@ Adopted 2026-11-26, at the creation of this repo.
    posts/2026-11-26-the-shoestring-history.md.
    (Rule 5 exception: budget posts are production
    history, not project news.)
+8. **Production commentary lives here too.**
+   General commentary and posts on X about
+   production itself (the unit, the workflow, the
+   method, not any single project's news) are
+   logged in posts/ once posted on X, same
+   posted-only rule as Rule 7 (Director's ruling,
+   2026-11-26).
 
 *Maintained by ~C4Chaos / Fluffy (A Centaur Production).*
